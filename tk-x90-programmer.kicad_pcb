@@ -446,7 +446,7 @@
     (fp_line (start -1.27 1.27) (end 0.635 1.27) (layer B.Fab) (width 0.1))
     (pad 1 thru_hole circle (at 0 0) (size 2 2) (drill 1.4) (layers *.Cu *.Mask)
       (net 1 /TRD))
-    (model ${KIPRJMOD}/shapes/mill-max-310-13-101-41-001000.STEP
+    (model ${KIPRJMOD}/shapes/mill-max-329-13-101-41-540000.step
       (offset (xyz -0.95 -1.27 2.85))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -483,7 +483,7 @@
     (fp_line (start -1.27 1.27) (end 0.635 1.27) (layer B.Fab) (width 0.1))
     (pad 1 thru_hole circle (at 0 0) (size 2 2) (drill 1.4) (layers *.Cu *.Mask)
       (net 3 GND))
-    (model ${KIPRJMOD}/shapes/mill-max-310-13-101-41-001000.STEP
+    (model ${KIPRJMOD}/shapes/mill-max-329-13-101-41-540000.step
       (offset (xyz -0.95 -1.27 2.85))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))

@@ -129,6 +129,8 @@ These assembly instruction assume that you have the [connector housing
 components](https://github.com/mobilinkd/tk-x90-mic-connector-housing)
 completed and partially assembled.
 
+We are going to assemble the USB serial connector end of the cable first.
+
  1. Cut an the Ethernet cable to the desired length.
  1. Cut off any RJ-45 connectors that are attached at either end.
  1. Cut back about 10-15mm of the outer insulation from one end.
